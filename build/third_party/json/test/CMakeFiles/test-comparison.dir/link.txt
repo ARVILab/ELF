@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-comparison.dir/src/unit-comparison.cpp.o CMakeFiles/doctest_main.dir/src/unit.cpp.o  -o test-comparison 

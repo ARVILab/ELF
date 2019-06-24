@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test-serialization.dir/src/unit-serialization.cpp.o CMakeFiles/doctest_main.dir/src/unit.cpp.o  -o test-serialization 

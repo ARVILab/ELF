@@ -1,0 +1,422 @@
+[
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/googletest/googlemock",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest  -O3 -DNDEBUG   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/googletest/googlemock",
+  "command": "/usr/bin/c++   -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock/include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest  -O3 -DNDEBUG   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/googletest/googletest",
+  "command": "/usr/bin/c++   -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest  -O3 -DNDEBUG   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest  -O3 -DNDEBUG   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-wstring.dir/src/unit-wstring.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-wstring.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-wstring.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-unicode.dir/src/unit-unicode.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-unicode.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-unicode.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-udt.dir/src/unit-udt.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-udt.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-udt.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-ubjson.dir/src/unit-ubjson.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-ubjson.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-ubjson.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-to_chars.dir/src/unit-to_chars.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-to_chars.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-to_chars.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-convenience.dir/src/unit-convenience.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-convenience.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-convenience.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-class_iterator.dir/src/unit-class_iterator.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_iterator.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_iterator.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-testsuites.dir/src/unit-testsuites.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-testsuites.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-testsuites.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-concepts.dir/src/unit-concepts.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-concepts.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-concepts.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-class_parser.dir/src/unit-class_parser.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_parser.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_parser.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-comparison.dir/src/unit-comparison.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-comparison.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-comparison.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-regression.dir/src/unit-regression.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-regression.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-regression.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-class_const_iterator.dir/src/unit-class_const_iterator.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_const_iterator.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_const_iterator.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-json_patch.dir/src/unit-json_patch.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-json_patch.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-json_patch.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-noexcept.dir/src/unit-noexcept.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-noexcept.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-noexcept.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-pointer_access.dir/src/unit-pointer_access.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-pointer_access.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-pointer_access.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-class_lexer.dir/src/unit-class_lexer.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_lexer.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-class_lexer.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-bson.dir/src/unit-bson.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-bson.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-bson.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-cbor.dir/src/unit-cbor.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-cbor.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-cbor.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-algorithms.dir/src/unit-algorithms.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-algorithms.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-algorithms.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-element_access2.dir/src/unit-element_access2.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-element_access2.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-element_access2.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-allocator.dir/src/unit-allocator.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-allocator.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-allocator.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-items.dir/src/unit-items.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-items.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-items.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-constructor2.dir/src/unit-constructor2.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-constructor2.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-constructor2.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-alt-string.dir/src/unit-alt-string.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-alt-string.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-alt-string.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-iterators2.dir/src/unit-iterators2.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-iterators2.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-iterators2.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-capacity.dir/src/unit-capacity.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-capacity.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-capacity.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-conversions.dir/src/unit-conversions.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-conversions.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-conversions.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-constructor1.dir/src/unit-constructor1.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-constructor1.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-constructor1.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-deserialization.dir/src/unit-deserialization.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-deserialization.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-deserialization.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-reference_access.dir/src/unit-reference_access.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-reference_access.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-reference_access.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-element_access1.dir/src/unit-element_access1.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-element_access1.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-element_access1.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-meta.dir/src/unit-meta.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-meta.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-meta.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-inspection.dir/src/unit-inspection.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-inspection.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-inspection.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++   -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/doctest_main.dir/src/unit.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-readme.dir/src/unit-readme.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-readme.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-readme.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-iterators1.dir/src/unit-iterators1.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-iterators1.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-iterators1.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-json_pointer.dir/src/unit-json_pointer.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-json_pointer.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-json_pointer.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-modifiers.dir/src/unit-modifiers.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-modifiers.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-modifiers.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-merge_patch.dir/src/unit-merge_patch.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-merge_patch.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-merge_patch.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-msgpack.dir/src/unit-msgpack.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-msgpack.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-msgpack.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/json/test",
+  "command": "/usr/bin/c++  -DDOCTEST_CONFIG_SUPER_FAST_ASSERTS -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/doctest -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/thirdparty/fifo_map -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include  -O3 -DNDEBUG   -Wno-deprecated -Wno-float-equal -Wno-deprecated-declarations -std=gnu++11 -o CMakeFiles/test-serialization.dir/src/unit-serialization.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-serialization.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/test/src/unit-serialization.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/third_party/spdlog",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include  -O3 -DNDEBUG   -Wall -Wextra -Wconversion -pedantic -Wfatal-errors -std=c++11 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/src/spdlog.cpp",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/src/spdlog.cpp"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -D_elf_EXPORTS -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3 -fPIC -fvisibility=hidden   -std=c++17 -flto -fno-fat-lto-objects -std=c++14 -std=gnu++1z -o CMakeFiles/_elf.dir/pybind_module.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/pybind_module.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/pybind_module.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/Pybind.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/Pybind.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/Pybind.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/concurrency/Counter.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/concurrency/Counter.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/concurrency/Counter.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/logging/IndexedLoggerFactory.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/logging/IndexedLoggerFactory.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/logging/IndexedLoggerFactory.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/logging/Levels.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/logging/Levels.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/logging/Levels.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/logging/Pybind.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/logging/Pybind.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/logging/Pybind.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/options/OptionMap.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/options/OptionMap.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/options/OptionMap.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/options/OptionSpec.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/options/OptionSpec.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/options/OptionSpec.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elf",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elf.dir/options/Pybind.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/options/Pybind.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elf/options/Pybind.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -D_elfgames_ugolki_EXPORTS -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3 -fPIC -fvisibility=hidden   -std=c++17 -flto -fno-fat-lto-objects -std=c++14 -std=gnu++1z -o CMakeFiles/_elfgames_ugolki.dir/pybind/pybind_module.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/pybind/pybind_module.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/pybind/pybind_module.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/common/ClientGameSelfPlay.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/common/ClientGameSelfPlay.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/common/ClientGameSelfPlay.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/game/GameState.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/GameState.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/GameState.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/game/GameBoard.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/GameBoard.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/GameBoard.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/game/BoardFeature.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/BoardFeature.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/BoardFeature.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/game/SimpleAgent.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/SimpleAgent.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/SimpleAgent.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/game/GameStateExt.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/GameStateExt.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/game/GameStateExt.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/train/client_manager.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/train/client_manager.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/train/client_manager.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/train/server/ServerGameTrain.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/train/server/ServerGameTrain.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/train/server/ServerGameTrain.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/ugolki",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_ugolki.dir/pybind/Pybind.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/pybind/Pybind.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/ugolki/pybind/Pybind.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -D_elfgames_american_checkers_EXPORTS -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3 -fPIC -fvisibility=hidden   -std=c++17 -flto -fno-fat-lto-objects -std=c++14 -std=gnu++1z -o CMakeFiles/_elfgames_american_checkers.dir/pybind/pybind_module.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/pybind/pybind_module.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/pybind/pybind_module.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/common/ClientGameSelfPlay.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/common/ClientGameSelfPlay.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/common/ClientGameSelfPlay.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/game/GameState.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/GameState.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/GameState.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/game/GameBoard.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/GameBoard.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/GameBoard.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/game/BoardFeature.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/BoardFeature.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/BoardFeature.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/game/GameStateExt.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/GameStateExt.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/game/GameStateExt.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/train/client_manager.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/train/client_manager.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/train/client_manager.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/train/server/ServerGameTrain.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/train/server/ServerGameTrain.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/train/server/ServerGameTrain.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/american_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_american_checkers.dir/pybind/Pybind.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/pybind/Pybind.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/american_checkers/pybind/Pybind.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -D_elfgames_russian_checkers_EXPORTS -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3 -fPIC -fvisibility=hidden   -std=c++17 -flto -fno-fat-lto-objects -std=c++14 -std=gnu++1z -o CMakeFiles/_elfgames_russian_checkers.dir/pybind/pybind_module.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/pybind/pybind_module.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/pybind/pybind_module.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/game/CheckersState.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersState.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersState.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/game/CheckersBoard.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersBoard.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersBoard.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/game/CheckersFeature.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersFeature.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersFeature.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/game/CheckersStateExt.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersStateExt.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/game/CheckersStateExt.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/common/ClientGameSelfPlay.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/common/ClientGameSelfPlay.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/common/ClientGameSelfPlay.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/train/server/ServerGameTrain.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/train/server/ServerGameTrain.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/train/server/ServerGameTrain.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/train/client_manager.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/train/client_manager.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/train/client_manager.cc"
+},
+{
+  "directory": "/home/ubuntu/arvi_34/elf/arvi_elf/build/elfgames/russian_checkers",
+  "command": "/usr/bin/c++  -DGIT_COMMIT_HASH=HEAD -DGIT_STAGED=unstaged -DSPDLOG_COMPILED_LIB -I/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/json/single_include -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/pybind11/include -I/home/ubuntu/miniconda3/include/python3.7m -I/home/ubuntu/arvi_34/elf/arvi_elf/third_party/spdlog/include -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/cppzmq -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/concurrentqueue -isystem /home/ubuntu/arvi_34/elf/arvi_elf/third_party/tbb/include   -g -Wno-deprecated-declarations -fPIC -march=native -O3   -std=c++14 -std=gnu++1z -o CMakeFiles/elfgames_russian_checkers.dir/pybind/Pybind.cc.o -c /home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/pybind/Pybind.cc",
+  "file": "/home/ubuntu/arvi_34/elf/arvi_elf/src_cpp/elfgames/russian_checkers/pybind/Pybind.cc"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspdlog.a  CMakeFiles/spdlog.dir/src/spdlog.cpp.o
+/usr/bin/ranlib libspdlog.a
