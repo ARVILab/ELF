@@ -1,0 +1,34 @@
+# Build and interpreter artifacts
+._*
+.DS*
+*_DS*
+*.a
+*.bin
+*.dSYM
+*.o
+*.pyc
+*.so
+build/
+SelfplayRecords/
+EvalRecords/
+SimpleBufferRecords/
+__pycache__/
+
+# Random junk
+*.sw?
+*.db
+*.json
+*.sgf
+*.swo
+*.tree
+.codemod.bookmark
+.nfs*
+tmp*.sh
+tags
+build/
+save_dir*/
+test-*/
+Testing/
+pachi-*/
+experimental/patterns.prob
+experimental/patterns.spat
